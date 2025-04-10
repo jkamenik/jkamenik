@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkamenik
 - 👀 I’m interested in Camping, Woodworking, the occational programming challenge.
-- 🌱 I’m currently learning to recreate period furniture 🪑 and and about AI 🤖.
+- 🌱 I’m currently learning to recreate period furniture 🪑 and about AI 🤖.
 - 📫 How to reach me
     - https://www.linkedin.com/in/johnkamenik/
 
